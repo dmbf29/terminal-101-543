@@ -1,0 +1,21 @@
+1. Add git into a directory
+=> git init
+
+2. Check the status (dirty or clean?)
+=> git status
+
+3. Commit your files (create a savepoint)
+=> git add file_name
+=> git commit -m "meaningful message"
+
+4. Push your code to Github
+=> git push origin master
+
+5. Check the difference from your code to the last commit
+=> git diff
+
+6. Check the long logs
+=> git log
+
+7. Check the short logs
+=> git lg
